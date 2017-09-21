@@ -3,3 +3,6 @@ _site/
 # Sublime text files
 *.sublime-project
 *.sublime-workspace
+
+# macOS cruft
+.DS_Store
