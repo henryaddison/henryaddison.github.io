@@ -13,14 +13,15 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Posts <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">My Posts <span class="caret"></span></a>
           <ul class="dropdown-menu">
             {% for post in site.posts %}
               <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
             {% endfor %}
           </ul>
         </li>
-        <li><a href="https://github.com/henryaddison">GitHub Profile</a></li>
+        <li><a href="https://github.com/henryaddison">My GitHub</a></li>
+        <li><a href="https://twitter.com/hja22">My Twitter</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container-fluid -->
