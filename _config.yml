@@ -1,29 +1,10 @@
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "drafts"
-    values:
-      layout: "post"
-
 gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
-title: Henryaddison.github.io
-description: 
-google_analytics: 
+title: hja22 Blog
+description:
+google_analytics:
 show_downloads: true
 theme: jekyll-theme-cayman
