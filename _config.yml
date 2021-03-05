@@ -21,3 +21,9 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+title: Henryaddison.github.io
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
