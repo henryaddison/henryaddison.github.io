@@ -1,5 +1,6 @@
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-seo-tag
 
