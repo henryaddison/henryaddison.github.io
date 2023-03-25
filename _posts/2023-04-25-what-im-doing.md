@@ -32,4 +32,4 @@ Bit overwhelmed by this:
 * Puttingn together a paper
 * Figuring what the hell will my thesis contain
 * Better way to display samples
-* Baselines (GAN, deterministic UNet, GLMs that perhaps can't do spatially coherent single samples)
+* Picking and fitting some decent baselines (GAN, deterministic UNet, GLMs that perhaps can't do spatially coherent single samples)
