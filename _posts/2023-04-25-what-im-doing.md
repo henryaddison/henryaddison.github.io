@@ -31,3 +31,5 @@ Bit overwhelmed by this:
 * Communicating variability in QQ plots and bias (so variability in CPM and sample quantiles over all locations, CPM and sample means at each location)
 * Puttingn together a paper
 * Figuring what the hell will my thesis contain
+* Better way to display samples
+* Baselines (GAN, deterministic UNet, GLMs that perhaps can't do spatially coherent single samples)
