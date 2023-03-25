@@ -22,7 +22,7 @@ Looking forward to finally getting to a conference in-person (Covid and caring r
 
 ## Improving my diffusion model
 
-Bit overwhelmed by this:
+Bit overwhelmed by prioritising and getting through this (not exhaustive) list:
 
 * Quantile Mapping
 * Working out why my RAPSD plots are weird
