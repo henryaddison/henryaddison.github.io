@@ -8,6 +8,21 @@ Following [the advice of doing short blogposts](https://matthewrocklin.com/blog/
 
 Currently I am:
 
-* Helping to organise the Interactive AI CDT Spring Research Conference.
-* Preparing for two conferences in April: Climate Informatics 2023 in Cambridge and EGU 23 in Vienna.
+* Helping to organise the [Interactive AI CDT](https://www.bristol.ac.uk/cdt/interactive-ai/) Spring Research Conference.
+* Preparing for two conferences in April: [Climate Informatics 2023](https://cambridge-iccs.github.io/main/2023/01/01/ci2023.html) in Cambridge and [EGU 23](https://www.egu23.eu/) in Vienna.
 * Improving my diffusion-model-based hi-res climate model emulator. 
+
+## Organising IAI CDT Spring Research Conference
+
+Organising this has been both fun (we get to choose some of the stuff that happens) and frustrating (when a speaker we ask isn't available on the dates; worrying the other CDT students think it's all a waste of time). The main purpose of it is for students of the CDT to present our research to each other but we've got a couple of interesting speakers coming and hopefully we've have some fun too.
+
+## Improving my diffusion model
+
+Bit overwhelmed by this:
+
+* Quantile Mapping
+* Working out why my RAPSD plots are weird
+* Evaluating the probalistic part of ML model
+* Climate change signal response
+* Put together a paper
+* What the hell will my thesis contain
