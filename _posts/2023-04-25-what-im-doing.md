@@ -16,6 +16,10 @@ Currently I am:
 
 Organising this has been both fun (we get to choose some of the stuff that happens) and frustrating (when a speaker we ask isn't available on the dates; worrying the other CDT students think it's all a waste of time). The main purpose of it is for students of the CDT to present our research to each other but we've got a couple of interesting speakers coming and hopefully we've have some fun too.
 
+## Conferences
+
+Looking forward to finally getting to a conference in-person (Covid and caring responsibilities make this not so simple) but not really sure what to expect at a scientific conference and how to make it useful.
+
 ## Improving my diffusion model
 
 Bit overwhelmed by this:
@@ -24,5 +28,6 @@ Bit overwhelmed by this:
 * Working out why my RAPSD plots are weird
 * Evaluating the probalistic part of ML model
 * Climate change signal response
-* Put together a paper
-* What the hell will my thesis contain
+* Communicating variability in QQ plots and bias (so variability in CPM and sample quantiles over all locations, CPM and sample means at each location)
+* Puttingn together a paper
+* Figuring what the hell will my thesis contain
